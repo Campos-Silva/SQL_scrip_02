@@ -166,7 +166,7 @@ Para ficar mais didático e seguindo uma linha de sequência lógica, optei por 
 
 
 #### Resultado
-![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_10_resultado_sql.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_10_resultado_a_sql.JPG)
 
 ## Autor:
 
