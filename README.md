@@ -1,7 +1,7 @@
-# Explorando dados do Setor de Aluguel de Imóveis no Brasil usando SQL
+# Explorando dados do Setor de Aluguel de Imóveis via SQL
 
  <left>
-<img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/ecommerce.jpg" width="650" />
+<img src="https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/house_rent.jpg" width="650" />
 </left>
 
 
