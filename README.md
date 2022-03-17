@@ -69,104 +69,104 @@ Eu visei responder as seguintes perguntas:
 
 Para ficar mais didático e seguindo uma linha de sequência lógica, optei por reescrever cada pergunta seguida das linha de código, e um print com as 10 primeiras linhas da tabela resultante.
 
-#### 1 - Qual o valor total dos produtos vendidos por setor?
+#### 1 - Quantos imóveis há nesse conjunto de dados?
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_1_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/1_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_1_resultado_sql.JPG)
 
-#### 2 - Qual o valor do frete médio por cidade?
+#### 2 - Qual a média de preço total por cidade?
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/2_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_2_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/2_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_2_resultado_sql.JPG)
 
-#### 3 - Qual o valor médio de produtos por setor?
-
-
-#### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/3_print_codigo.JPG)
-
-
-#### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/3_print_resultado.JPG)
-
-#### 4 - Quais os produtos vendidos para a seção de "acessórios"?
+#### 3 - Quais os 10 imóveis com maior preço de aluguel total?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/4_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_3_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/4_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_3_resultado_sql.JPG)
 
-#### 5 - Quais os produtos vendidos para a seção de "eletrônicos"?
+#### 4 - Quais as cidades que têm maior preço médio de taxas de propriedade?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/5_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_4_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/5_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_4_resultado_sql.JPG)
 
-#### 6 - Quais os produtos que possuem foram vendidos para mais longe?
+#### 5 - Quais os imóveis que aceitam animais?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/6_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_5_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/6_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_5_resultado_sql.JPG)
 
-#### 7 - Quais os produtos que possuem maior preço?
+#### 6 - Quantos imóveis que aceitam animais?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/7_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_6_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/7_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_6_resultado_sql.JPG)
 
-
-#### 8 - Quais os produtos que possuem maior peso?
+#### 7 - Quais os imóveis que são mobiliados?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/8_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_7_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/8_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_7_resultado_sql.JPG)
 
-#### 9 - Quais os 10 produtos mais caros que possuem valor entre R$200,00 a R$500,00?
+
+#### 8 - Quantos imóveis possuem mais de um banheiro?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/9_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_8_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/9_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_8_resultado_sql.JPG)
 
-#### - 10 - Quais os produtos que tiveram de ser devolvidos?
+#### 9 - Quais os imóveis que possuem mais de uma vaga de veículos?
 
 
 #### Código: 
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/10_print_codigo.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_9_linha_sql.JPG)
 
 
 #### Resultado
-![Alt ou título da imagem](https://github.com/Campos-Silva/SQL_script_01_/blob/main/10_print_resultado.JPG)
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_9_resultado_sql.JPG)
+
+#### 10 - Que imóveis possuem área entre 200 e 500 m2?
+
+
+#### Código: 
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_10_linha_sql.JPG)
+
+
+#### Resultado
+![Alt ou título da imagem](https://raw.githubusercontent.com/Campos-Silva/SQL_scrip_02/main/fig_10_resultado_sql.JPG)
 
 ## Autor:
 
