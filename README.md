@@ -33,7 +33,7 @@ Utilizei o banco de dados do Postgre para implementar essas análises explorató
 
 - Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/perguntas.txt) para visualizar o script das perguntas.
 
-- Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/BaseDados.csv) para visualizar o Dataset.
+- Clique [aqui](https://github.com/Campos-Silva/SQL_scrip_02/blob/main/houses_to_rent_v2.csv) para visualizar o Dataset.
 
 ## Métodos
 
