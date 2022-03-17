@@ -1,0 +1,19 @@
+1 – Quantos imóveis há nesse conjunto de dados?
+
+2 – Qual a média de preço total por cidade?
+
+3 – Quais os 10 imóveis com maior preço de aluguel total?
+
+4 – Quais as cidades que têm maior preço médio de taxas de propriedade?
+
+5 - Quais os imóveis que aceitam animais?
+
+6 – Quantos imóveis que aceitam animais?
+
+7 – Quais os imóveis que são mobiliados?
+
+8 – Quantos imóveis possuem mais de um banheiro?
+
+9- Quais os imóveis que possuem mais de uma vaga de veículos?
+
+10 – Que imóveis possuem área entre 200 e 500 m2?
