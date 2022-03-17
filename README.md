@@ -29,7 +29,7 @@ Utilizei o banco de dados do Postgre para implementar essas análises explorató
 <img src="https://github.com/Campos-Silva/SQL_script_01_/blob/main/icone_csv.png" width="170" />
 </left>
 
-- Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/roteiro_SQL_para_responder_as_perguntas.txt) para visualizar o script dos códigos na linguagem SQL.
+- Clique [aqui](https://github.com/Campos-Silva/SQL_scrip_02/blob/main/linhas_de_codigo_sql.sql) para visualizar o script dos códigos na linguagem SQL.
 
 - Clique [aqui](https://github.com/Campos-Silva/SQL_script_01_/blob/main/perguntas.txt) para visualizar o script das perguntas.
 
