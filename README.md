@@ -45,25 +45,25 @@ Para demonstrar o uso dessas funções eu segui uma sequência lógica de pergun
 
 Eu visei responder as seguintes perguntas:
 
-- 1 - Qual o valor total dos produtos vendidos por setor?
+- 1 – Quantos imóveis há nesse conjunto de dados?
 
-- 2 - Qual o valor do frete médio por cidade?
+- 2 – Qual a média de preço total por cidade?
 
-- 3 - Qual o valor médio de produtos por setor?
+- 3 – Quais os 10 imóveis com maior preço de aluguel total?
 
-- 4 - Quais os produtos vendidos para a seção de "acessórios"?
+- 4 – Quais as cidades que têm maior preço médio de taxas de propriedade?
 
-- 5 - Quais os produtos vendidos para a seção de "eletrônicos"?
+- 5 - Quais os imóveis que aceitam animais?
 
-- 6 - Quais os produtos que possuem foram vendidos para mais longe?
+- 6 – Quantos imóveis que aceitam animais?
 
-- 7 - Quais os produtos que possuem maior preço?
+- 7 – Quais os imóveis que são mobiliados?
 
-- 8 - Quais os produtos que possuem maior peso?
+- 8 – Quantos imóveis possuem mais de um banheiro?
 
-- 9 - Quais os 10 produtos mais caros que possuem valor entre R$200,00 a R$500,00?
+- 9- Quais os imóveis que possuem mais de uma vaga de veículos?
 
-- 10 - Quais os produtos que tiveram de ser devolvidos?
+- 10 – Que imóveis possuem área entre 200 e 500 m2?
 
 ## Resultados
 
